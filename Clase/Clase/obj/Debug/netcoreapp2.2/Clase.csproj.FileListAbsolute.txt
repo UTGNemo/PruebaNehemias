@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Fernando De Sosa\Clase\Clase\bin\Debug\netcoreapp2.2\Clase.deps.json
+C:\Users\Administrator\Desktop\Fernando De Sosa\Clase\Clase\bin\Debug\netcoreapp2.2\Clase.runtimeconfig.json
+C:\Users\Administrator\Desktop\Fernando De Sosa\Clase\Clase\bin\Debug\netcoreapp2.2\Clase.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Fernando De Sosa\Clase\Clase\bin\Debug\netcoreapp2.2\Clase.dll
+C:\Users\Administrator\Desktop\Fernando De Sosa\Clase\Clase\bin\Debug\netcoreapp2.2\Clase.pdb
+C:\Users\Administrator\Desktop\Fernando De Sosa\Clase\Clase\obj\Debug\netcoreapp2.2\Clase.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Fernando De Sosa\Clase\Clase\obj\Debug\netcoreapp2.2\Clase.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Fernando De Sosa\Clase\Clase\obj\Debug\netcoreapp2.2\Clase.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Fernando De Sosa\Clase\Clase\obj\Debug\netcoreapp2.2\Clase.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Fernando De Sosa\Clase\Clase\obj\Debug\netcoreapp2.2\Clase.dll
+C:\Users\Administrator\Desktop\Fernando De Sosa\Clase\Clase\obj\Debug\netcoreapp2.2\Clase.pdb
